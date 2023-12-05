@@ -4,14 +4,14 @@
 #### Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/D5635AQFcCNLLBXLMYg/profile-framedphoto-shrink_400_400/0/1701386786982?e=1702342800&v=beta&t=fu-Et2QQf1cLcAL8cQamk5J4Z0_zNP33DdhoYSYBkfo)
 
-👨‍💻 About Me:
+## 👨‍💻 About Me:
 
 🎓 I'm a dedicated Computer Science student at Southern New Hampshire University, passionate about all things tech.
 💼 Former Operations Specialist Second Class in the US Navy, where I developed strong analytical and strategic skills.
 🌟 Specializing in software engineering.
 🌐 Skilled in multiple programming languages including Python, Java, C++, MySQL, JavaScript, React, HTML and CSS.
 📚 Continuously learning and staying updated with the latest technological trends and advancements.
-🚀 Professional Journey:
+## 🚀 Professional Journey:
 
 My experience ranges from technical roles in the military to academic pursuits in software development.
 I'm adept at problem-solving, data analysis, and developing user-centric applications.
