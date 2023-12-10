@@ -18,12 +18,12 @@ I'm adept at problem-solving, data analysis, and developing user-centric applica
 Currently, I'm exploring projects that fuse my software engineering knowledge with cybersecurity principles.
 🤝 Collaboration and Interests:
 
-I'm open to collaborating on projects related to cybersecurity, software development, and data management.
+I'm open to collaborating on projects related to software development, and data management.
 Always eager to join forces with like-minded tech enthusiasts and contribute to open-source projects.
 📈 Future Aspirations:
 
 Aspiring to become a cybersecurity specialist, aiming to protect digital infrastructure in the public sector.
-Planning to further my education with a master's degree in cybersecurity.
+Planning to further my education with a master's degree in Software Engineering with AI machine learning.
 📫 Get in Touch:
 
 Feel free to reach out for collaborations or just a chat about tech and software innovations.
