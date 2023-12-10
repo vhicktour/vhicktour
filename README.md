@@ -45,7 +45,6 @@ Planning to further my education with a master's degree in Software Engineering 
 Feel free to reach out for collaborations or just a chat about tech and software innovations.
 
 
-Skills: Python / Java / C++ / MySQL / JavaScript / React / HTML and CSS
 
 - 🔭 I’m currently working on My Bachelors 
 - 📫 How to reach me: Email: Victor.o.udeh@gmail.com 
