@@ -9,7 +9,7 @@
 🎓 I'm a dedicated Computer Science student at Southern New Hampshire University, passionate about all things tech.
 
 
-💼 Currently Operations Specialist Second Class in the US Navy, where I developed strong analytical and strategic skills.
+💼 Currently serving as an Operations Specialist Second Class in the US Navy, I have honed a robust set of analytical and strategic skills that are integral to high-stakes environments. This position has not only instilled in me a profound sense of discipline and precision but has also equipped me with unparalleled expertise in operational strategy and analysis. My experience in the Navy has laid a strong foundation for problem-solving and critical thinking, skills that are essential in any dynamic and challenging field.
 
 
 🌟 Specializing in software engineering.
