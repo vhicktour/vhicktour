@@ -9,7 +9,7 @@
 🎓 I'm a dedicated Computer Science student at Southern New Hampshire University, passionate about all things tech.
 
 
-💼 Former Operations Specialist Second Class in the US Navy, where I developed strong analytical and strategic skills.
+💼 Currently Operations Specialist Second Class in the US Navy, where I developed strong analytical and strategic skills.
 
 
 🌟 Specializing in software engineering.
@@ -23,22 +23,17 @@
 
 ## 🚀 Professional Journey:
 
-My experience ranges from technical roles in the military to academic pursuits in software development.
-I'm adept at problem-solving, data analysis, and developing user-centric applications.
-Currently, I'm exploring projects that fuse my software engineering knowledge with cybersecurity principles.
+With a diverse background that bridges the rigor of military technical roles and the innovation of academic software development, I bring a unique blend of discipline and creativity to the tech world. My proficiency lies in adept problem-solving, advanced data analysis, and crafting user-centric applications that resonate with end-users. At present, I am passionately delving into pioneering projects that synergize my extensive software engineering expertise with cutting-edge AI and machine learning technologies, aiming to forge new frontiers in digital solutions.
 
 
 ## 🤝 Collaboration and Interests:
 
-I'm open to collaborating on projects related to software development, and data management.
-Always eager to join forces with like-minded tech enthusiasts and contribute to open-source projects.
+I am enthusiastically open to collaborations that delve into the realms of software development and data management. My eagerness to connect with fellow technology enthusiasts knows no bounds, as I am always ready to contribute my skills and insights to open-source projects. Joining forces with others who share a passion for technological innovation, I aim to collectively push the boundaries of what we can achieve in the digital world.
 
 
 ## 📈 Future Aspirations:
 
-Aspiring to become a cybersecurity specialist, aiming to protect digital infrastructure in the public sector.
-Planning to further my education with a master's degree in Software Engineering with AI machine learning.
-
+In my journey towards professional growth and technological mastery, I am setting my sights on pursuing a Master's degree in Software Engineering, with a specialized focus on AI and machine learning. This advanced academic endeavor represents not just a step towards enhancing my technical expertise, but also a commitment to being at the forefront of innovation. My goal is to harness this education to develop groundbreaking software solutions, pushing the boundaries of AI applications, and contributing significantly to the evolution of smart technologies in our increasingly digital world.
 
 ## 📫 Get in Touch:
 
