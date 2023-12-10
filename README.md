@@ -7,24 +7,40 @@
 ## 👨‍💻 About Me:
 
 🎓 I'm a dedicated Computer Science student at Southern New Hampshire University, passionate about all things tech.
+
+
 💼 Former Operations Specialist Second Class in the US Navy, where I developed strong analytical and strategic skills.
+
+
 🌟 Specializing in software engineering.
+
+
 🌐 Skilled in multiple programming languages including Python, Java, C++, MySQL, JavaScript, React, HTML and CSS.
+
+
 📚 Continuously learning and staying updated with the latest technological trends and advancements.
+
+
 ## 🚀 Professional Journey:
 
 My experience ranges from technical roles in the military to academic pursuits in software development.
 I'm adept at problem-solving, data analysis, and developing user-centric applications.
 Currently, I'm exploring projects that fuse my software engineering knowledge with cybersecurity principles.
-🤝 Collaboration and Interests:
+
+
+## 🤝 Collaboration and Interests:
 
 I'm open to collaborating on projects related to software development, and data management.
 Always eager to join forces with like-minded tech enthusiasts and contribute to open-source projects.
-📈 Future Aspirations:
+
+
+## 📈 Future Aspirations:
 
 Aspiring to become a cybersecurity specialist, aiming to protect digital infrastructure in the public sector.
 Planning to further my education with a master's degree in Software Engineering with AI machine learning.
-📫 Get in Touch:
+
+
+## 📫 Get in Touch:
 
 Feel free to reach out for collaborations or just a chat about tech and software innovations.
 
