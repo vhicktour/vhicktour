@@ -2,7 +2,6 @@
 
 ### Hi there 👋, I am Victor Udeh
 #### Aspiring Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/D5635AQFcCNLLBXLMYg/profile-framedphoto-shrink_400_400/0/1701386786982?e=1702342800&v=beta&t=fu-Et2QQf1cLcAL8cQamk5J4Z0_zNP33DdhoYSYBkfo)
 
 ## 👨‍💻 About Me:
 
