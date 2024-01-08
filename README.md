@@ -1,7 +1,7 @@
 # Victor Udeh
 
 ### Hi there 👋, I am Victor Udeh
-#### Software Engineer
+#### Aspiring Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/D5635AQFcCNLLBXLMYg/profile-framedphoto-shrink_400_400/0/1701386786982?e=1702342800&v=beta&t=fu-Et2QQf1cLcAL8cQamk5J4Z0_zNP33DdhoYSYBkfo)
 
 ## 👨‍💻 About Me:
@@ -45,7 +45,7 @@ Feel free to reach out for collaborations or just a chat about tech and software
 - 📫 How to reach me: Email: Victor.o.udeh@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vhicktour)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victorudeh/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vhicktour)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/https://www.linkedin.com/in/victorudeh/](https://media.licdn.com/dms/image/D5635AQFLAL9YAV7Q2w/profile-framedphoto-shrink_400_400/0/1704604577954?e=1705280400&v=beta&t=HgDqbAu0-s4J_ZD0gGu1S_qLXPSVM10cjoMFEjtAIyQ))  
 
 
 
