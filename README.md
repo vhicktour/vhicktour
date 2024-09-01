@@ -1,7 +1,7 @@
 # Victor Udeh
 
 **Email:** Victor.o.udeh@gmail.com | **US Citizen with Active Secret Clearance**  
-**LinkedIn:** [linkedin.com/in/victorudeh](https://linkedin.com/in/victorudeh) | **GitHub:** [github.com/vhicktour](https://github.com/vhicktour)
+**LinkedIn:** [linkedin.com/in/victorudeh](https://linkedin.com/in/victorudeh)
 
 ---
 
