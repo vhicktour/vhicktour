@@ -1,80 +1,271 @@
-<h1 align="center">Hi 👋, I'm Victor Udeh</h1>
-<h3 align="center">A passionate Full Stack Developer | US Air Force Reserve Staff Sergeant | US Navy Veteran</h3>
+<div align="center">
+  
+# Victor Udeh
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Military+Veteran;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+## 👨‍💻 Full Stack Developer | 🎖️ Military Veteran | 🤖 ML/AI Engineer
 
-### 👨‍💻 About Me
-- 🎓 Currently pursuing BS in Computer Science at Southern New Hampshire University
-- 🌱 Exploring **AI, Machine Learning, and Cloud Technologies**
-- 👨‍🚀 Currently serving as Staff Sergeant in the US Air Force Reserve
-- 🎖️ US Navy Veteran with experience in leadership and strategic operations
-- 💼 Working on freelance software development projects
-- 📫 Reach me at **Victor.o.udeh@gmail.com**
 
-### 🛠️ Tech Stack
 
+Code with Precision, Execute with Excellence 🎯
+
+</div>
+
+## 👨‍💻 About Me
+```javascript
+const victor = {
+    currentRole: "Full Stack Developer & ML Engineer",
+    education: {
+        degree: "BS in Computer Science",
+        school: "Southern New Hampshire University",
+        expectedGraduation: "March 2025",
+        relevantCoursework: [
+            "Data Structures",
+            "Algorithms",
+            "Software Engineering",
+            "Machine Learning",
+            "Cloud Computing"
+        ]
+    },
+    military: {
+        current: {
+            role: "Staff Sergeant - U.S. Air Force Reserve",
+            location: "Niagara Falls, NY",
+            period: "Mar 2024 - Present",
+            responsibilities: [
+                "Squadron leadership of 20+ personnel",
+                "Training exercise coordination",
+                "Web-based personnel management system development"
+            ]
+        },
+        previous: {
+            role: "Operations Specialist - U.S. Navy",
+            location: "San Diego, CA",
+            period: "Oct 2019 - Jan 2024",
+            achievements: [
+                "Advanced communication systems operation",
+                "Emergency response management",
+                "Security protocol implementation",
+                "Team leadership and development"
+            ]
+        },
+        clearance: "Active Secret Security Clearance"
+    },
+    languages: {
+        spoken: ["English (Fluent)", "Igbo", "Yoruba", "Edo"],
+        programming: [
+            "Python", "JavaScript", "Java", 
+            "C++", "C#", "Swift", "SQL"
+        ]
+    },
+    currentFocus: [
+        "AI/ML Integration",
+        "Cloud Architecture",
+        "Mobile Development"
+    ]
+};
+```
+
+## 🛠️ Technical Arsenal
+
+<details>
+<summary>💻 Programming Languages</summary>
+<br>
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+</details>
 
-### 🚀 Featured Projects
-
-#### AI-Powered Trading Bot
-- 🤖 Cryptocurrency trading bot using Python and TensorFlow
-- 📊 Real-time sentiment analysis and automated trading
-- 🔄 Binance API integration for live market operations
-
-#### Microservices Architecture
-- 🐳 Docker containerization and Kubernetes orchestration
-- 🔌 RESTful APIs for service communication
-- 📦 Scalable and maintainable architecture
-
-#### Sustainable Product Scanner
-- 📱 Mobile app built with React Native
-- 🤖 TensorFlow-powered computer vision
-- 🌱 Environmental impact analysis
-
-#### Smart Home Thermostat
-- 🏠 Embedded C++ implementation
-- 🔌 I2C and UART communication
-- 📊 Real-time temperature monitoring
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vhicktour&show_icons=true&theme=radical" alt="vhicktour" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhicktour&theme=radical" alt="vhicktour" />
-</p>
-
-### 🤝 Connect with Me
+<details>
+<summary>🚀 Frameworks & Libraries</summary>
+<br>
 <p align="left">
-<a href="https://linkedin.com/in/victorudeh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="victorudeh"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+</details>
+
+<details>
+<summary>🧠 AI & Machine Learning</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary>☁️ Cloud & DevOps</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+</details>
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">GreenScope 🌿</h3>
+      <div align="center">  
+        <div style="width: 300px; height: 200px; background-color: #e0e0e0; display: flex; justify-content: center; align-items: center;">
+          <span>GreenScope App</span>
+        </div>
+        <p>
+          <a href="https://github.com/vhicktour/greenscope">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="#">
+            <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=appstore"/>
+          </a>
+        </p>
+        <p><strong>Swift, SwiftUI, OpenAI Vision API</strong> - Sustainable product scanner app that provides environmental impact analysis and eco-friendly alternatives using AI.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI Trading Bot 📈</h3>
+      <div align="center">  
+        <div style="width: 300px; height: 200px; background-color: #e0e0e0; display: flex; justify-content: center; align-items: center;">
+          <span>Trading Bot</span>
+        </div>
+        <p>
+          <a href="https://github.com/vhicktour/trading-bot">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="https://trading-bot-demo.herokuapp.com">
+            <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify"/>
+          </a>
+        </p>
+        <p><strong>Python, TensorFlow, OpenAI API</strong> - Cryptocurrency trading bot with GPT-based market analysis and deep Q-learning strategies.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Microservices Platform 🔄</h3>
+      <div align="center">
+        <div style="width: 300px; height: 200px; background-color: #e0e0e0; display: flex; justify-content: center; align-items: center;">
+          <span>Microservices</span>
+        </div>
+        <p>
+          <a href="https://github.com/vhicktour/microservices">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://microservices-demo.netlify.app">
+            <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify"/>
+          </a>
+        </p>
+        <p><strong>Docker, Kubernetes, Node.js</strong> - Scalable microservices architecture with container orchestration and RESTful APIs.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Smart Home Thermostat 🏠</h3>
+      <div align="center">
+        <div style="width: 300px; height: 200px; background-color: #e0e0e0; display: flex; justify-content: center; align-items: center;">
+          <span>Smart Thermostat</span>
+        </div>
+        <p>
+          <a href="https://github.com/vhicktour/smart-thermostat">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="#">
+            <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify"/>
+          </a>
+        </p>
+        <p><strong>Embedded C++, TensorFlow Lite</strong> - IoT-based smart thermostat with ML-powered temperature control and energy optimization.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vhicktour&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=vhicktour&theme=radical&hide_border=true"/>
+</div>
+
+## 🎯 Professional Experience
+
+```python
+class ProfessionalBackground:
+    def __init__(self):
+        self.current_roles = {
+            "Software Engineer (Freelance)": {
+                "period": "May 2022 - Present",
+                "skills": [
+                    "Full-stack development (MERN stack)",
+                    "RESTful API design",
+                    "Unit testing & code review",
+                    "Docker containerization"
+                ]
+            },
+            "Military Service": {
+                "current": "Staff Sergeant - USAF Reserve",
+                "previous": "Operations Specialist - US Navy",
+                "skills": [
+                    "Leadership & team management",
+                    "Emergency response coordination",
+                    "Security protocol implementation",
+                    "Advanced communication systems"
+                ]
+            }
+        }
+        
+        self.methodologies = [
+            "Agile/Scrum",
+            "Test-Driven Development",
+            "CI/CD",
+            "Microservices Architecture"
+        ]
+        
+        self.development_tools = [
+            "Git", "VS Code", "PyCharm",
+            "Eclipse", "MATLAB", "Jupyter",
+            "Docker", "Kubernetes"
+        ]
+```
+
+## 🎖️ Achievements & Certifications
+
+- Active Secret Security Clearance
+- Military Leadership Excellence Awards
+- Advanced Technical Training Certifications
+- Multilingual Proficiency (4 languages)
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-Victor.o.udeh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Victor.o.udeh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victorudeh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorudeh)
+[![GitHub](https://img.shields.io/badge/GitHub-vhicktour-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/vhicktour)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vhicktour&label=Profile%20views&color=0e75b6&style=flat" alt="vhicktour" />
-</p>
+### "Bridging Military Precision with Technical Innovation" 🎖️
 
-### 🌟 Fun Facts
-- 🌍 Multilingual: Fluent in English, Igbo, Yoruba, and Edo
-- 🎖️ Active Secret Security Clearance holder
-- 🌱 Passionate about using technology for positive impact
-- 📚 Continuous learner and technology enthusiast
+</div>
