@@ -266,6 +266,6 @@ class ProfessionalBackground:
 
 ---
 
-### "Bridging Military Precision with Technical Innovation" 🎖️
+### Bridging Military Precision with Technical Innovation 🎖️
 
 </div>
