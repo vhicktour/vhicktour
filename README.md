@@ -1,54 +1,80 @@
-# Victor Udeh
+<h1 align="center">Hi 👋, I'm Victor Udeh</h1>
+<h3 align="center">A passionate Full Stack Developer | US Air Force Reserve Staff Sergeant | US Navy Veteran</h3>
 
- **Email:** Victor.o.udeh@gmail.com | **US Citizen with Active Secret Clearance**  
-**LinkedIn:** [linkedin.com/in/victorudeh](https://linkedin.com/in/victorudeh)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Military+Veteran;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+### 👨‍💻 About Me
+- 🎓 Currently pursuing BS in Computer Science at Southern New Hampshire University
+- 🌱 Exploring **AI, Machine Learning, and Cloud Technologies**
+- 👨‍🚀 Currently serving as Staff Sergeant in the US Air Force Reserve
+- 🎖️ US Navy Veteran with experience in leadership and strategic operations
+- 💼 Working on freelance software development projects
+- 📫 Reach me at **Victor.o.udeh@gmail.com**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### 🚀 Featured Projects
+
+#### AI-Powered Trading Bot
+- 🤖 Cryptocurrency trading bot using Python and TensorFlow
+- 📊 Real-time sentiment analysis and automated trading
+- 🔄 Binance API integration for live market operations
+
+#### Microservices Architecture
+- 🐳 Docker containerization and Kubernetes orchestration
+- 🔌 RESTful APIs for service communication
+- 📦 Scalable and maintainable architecture
+
+#### Sustainable Product Scanner
+- 📱 Mobile app built with React Native
+- 🤖 TensorFlow-powered computer vision
+- 🌱 Environmental impact analysis
+
+#### Smart Home Thermostat
+- 🏠 Embedded C++ implementation
+- 🔌 I2C and UART communication
+- 📊 Real-time temperature monitoring
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vhicktour&show_icons=true&theme=radical" alt="vhicktour" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhicktour&theme=radical" alt="vhicktour" />
+</p>
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/victorudeh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="victorudeh"/></a>
+</p>
 
 ---
 
-## 👋 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vhicktour&label=Profile%20views&color=0e75b6&style=flat" alt="vhicktour" />
+</p>
 
-Hello! I'm Victor Udeh, a dedicated and passionate Computer Science student at Southern New Hampshire University, working towards a Bachelor of Science degree. I am a US Navy veteran and currently serve as a Staff Sergeant in the US Air Force Reserve. My journey in the military has equipped me with a strong foundation in discipline, strategic thinking, and leadership. Now, I am channeling these skills into the tech world as a Full Stack Developer, focusing on creating innovative and user-friendly software solutions.
-
-I have a deep interest in software engineering, particularly in developing applications that enhance user experience and streamline processes. My technical expertise spans multiple programming languages and frameworks, including Ruby, Python, Java, JavaScript, React.js, and Ruby on Rails. I’m continually learning and exploring new technologies.
-
----
-
-## 💼 Professional Journey
-
-Throughout my career, I've had the opportunity to work in various roles that have shaped my approach to technology and problem-solving. As a **Full Stack Developer**, I have worked with clients to develop web applications that are both functional and intuitive, utilizing tools like Ruby on Rails, Python, and Java. My focus has been on building responsive interfaces and integrating advanced search functionalities to improve user experience.
-
-In the **US Air Force Reserve**, I manage team operations, support personnel records management, and assist in various administrative functions, all while fostering an inclusive environment. My time in the **US Navy** taught me the importance of quick decision-making and effective communication under pressure, skills that are crucial in both military and tech environments.
-
----
-
-## 🚀 Skills and Interests
-
-I am passionate about technology and its ability to solve real-world problems. Here are some of the skills and technologies I work with:
-
-- **Programming Languages:** Ruby, Python, Java, JavaScript, TypeScript, HTML, CSS, SQL, C++, C
-- **Frameworks & Libraries:** Ruby on Rails, React.js, Vue.js, MVC frameworks
-- **Databases:** MySQL, MongoDB, Solr, Firebase
-- **Tools & Platforms:** Git, GitHub, Eclipse, Visual Studio Code, PyCharm, Jupyter Notebook
-- **Development Practices:** Agile methodologies, Test-Driven Development (TDD), Version Control
-- **Interests:** AI, Machine Learning, Software Architecture, Full Stack Development, DevOps Integration
-
----
-
-## 🎯 Future Aspirations
-
-Looking ahead, I aim to further my education with a Master's degree in Software Engineering, with a specialized focus on AI and machine learning. I believe in the power of technology to innovate and transform industries, and I am excited about the possibilities that lie ahead. My goal is to develop cutting-edge software solutions that drive progress and make a meaningful impact.
-
----
-
-## 🌟 Let's Connect
-
-I'm always open to connecting with fellow tech enthusiasts, collaborating on innovative projects, or discussing the latest trends in software development. Feel free to reach out if you want to chat or explore potential collaborations!
-
-- **Email:** Victor.o.udeh@gmail.com    
-- **LinkedIn:** [linkedin.com/in/victorudeh](https://linkedin.com/in/victorudeh)
-
----
-
-## 📚 More About My Projects
-
-For a deeper dive into the projects I've worked on, check out my GitHub profile: [github.com/vhicktour](https://github.com/vhicktour). You'll find a range of projects that showcase my skills in full-stack development, data visualization, software testing, and more.
+### 🌟 Fun Facts
+- 🌍 Multilingual: Fluent in English, Igbo, Yoruba, and Edo
+- 🎖️ Active Secret Security Clearance holder
+- 🌱 Passionate about using technology for positive impact
+- 📚 Continuous learner and technology enthusiast
