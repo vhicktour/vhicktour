@@ -1,10 +1,8 @@
 <div align="center">
-  
+
 # Victor Udeh
 
 ## 👨‍💻 Full Stack Developer | 🎖️ Military Veteran | 🤖 ML/AI Engineer
-
-
 
 Code with Precision, Execute with Excellence 🎯
 
@@ -26,15 +24,21 @@ const victor = {
             "Cloud Computing"
         ]
     },
+    certifications: {
+        cloud: "AWS Certified Cloud Practitioner",
+        software: "Certified Software Engineer (9a1d86bb95fb)",
+        frontend: "Certified Frontend Developer (0e88a5637ccd)",
+        api: "Certified Rest API Developer (a963c2c181b1)"
+    },
     military: {
         current: {
             role: "Staff Sergeant - U.S. Air Force Reserve",
             location: "Niagara Falls, NY",
             period: "Mar 2024 - Present",
             responsibilities: [
-                "Squadron leadership of 20+ personnel",
-                "Training exercise coordination",
-                "Web-based personnel management system development"
+                "Leading a squadron of 20+ personnel",
+                "Coordinating training exercises",
+                "Developing web-based personnel management systems"
             ]
         },
         previous: {
@@ -42,10 +46,9 @@ const victor = {
             location: "San Diego, CA",
             period: "Oct 2019 - Jan 2024",
             achievements: [
-                "Advanced communication systems operation",
-                "Emergency response management",
-                "Security protocol implementation",
-                "Team leadership and development"
+                "Advanced communications and emergency response operations",
+                "Implementing security protocols",
+                "Leading and training multidisciplinary teams"
             ]
         },
         clearance: "Active Secret Security Clearance"
@@ -115,6 +118,7 @@ const victor = {
 <summary>☁️ Cloud & DevOps</summary>
 <br>
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -136,12 +140,12 @@ const victor = {
         <p>
           <a href="https://github.com/vhicktour/greenscope">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
+          </a>
           <a href="#">
             <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=appstore"/>
           </a>
         </p>
-        <p><strong>Swift, SwiftUI, OpenAI Vision API</strong> - Sustainable product scanner app that provides environmental impact analysis and eco-friendly alternatives using AI.</p>
+        <p><strong>Swift, SwiftUI, OpenAI Vision API</strong> - A sustainable product scanner providing environmental impact analyses and eco-friendly alternatives through AI.</p>
       </div>
     </td>
     <td width="50%">
@@ -158,7 +162,7 @@ const victor = {
             <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify"/>
           </a>
         </p>
-        <p><strong>Python, TensorFlow, OpenAI API</strong> - Cryptocurrency trading bot with GPT-based market analysis and deep Q-learning strategies.</p>
+        <p><strong>Python, TensorFlow, OpenAI API</strong> - A cryptocurrency trading bot leveraging GPT-driven market analysis and deep Q-learning strategies.</p>
       </div>
     </td>
   </tr>
@@ -177,7 +181,7 @@ const victor = {
             <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify"/>
           </a>
         </p>
-        <p><strong>Docker, Kubernetes, Node.js</strong> - Scalable microservices architecture with container orchestration and RESTful APIs.</p>
+        <p><strong>Docker, Kubernetes, Node.js</strong> - A scalable microservices architecture with container orchestration and RESTful APIs.</p>
       </div>
     </td>
     <td width="50%">
@@ -194,12 +198,11 @@ const victor = {
             <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify"/>
           </a>
         </p>
-        <p><strong>Embedded C++, TensorFlow Lite</strong> - IoT-based smart thermostat with ML-powered temperature control and energy optimization.</p>
+        <p><strong>Embedded C++, TensorFlow Lite</strong> - An IoT-based thermostat with ML-driven temperature control for optimized energy usage.</p>
       </div>
     </td>
   </tr>
 </table>
-
 
 ## 📊 GitHub Analytics
 
@@ -209,17 +212,24 @@ const victor = {
 </div>
 
 ## 🎯 Professional Experience
-
 ```python
 class ProfessionalBackground:
     def __init__(self):
+        self.certifications = {
+            "cloud": "AWS Certified Cloud Practitioner",
+            "software": "Certified Software Engineer",
+            "frontend": "Certified Frontend Developer",
+            "api": "Certified REST API Developer",
+            "security": "Active Secret Security Clearance"
+        }
+        
         self.current_roles = {
             "Software Engineer (Freelance)": {
                 "period": "May 2022 - Present",
                 "skills": [
-                    "Full-stack development (MERN stack)",
+                    "MERN stack development",
                     "RESTful API design",
-                    "Unit testing & code review",
+                    "Unit testing & code reviews",
                     "Docker containerization"
                 ]
             },
@@ -251,9 +261,12 @@ class ProfessionalBackground:
 
 ## 🎖️ Achievements & Certifications
 
+- AWS Certified Cloud Practitioner
+- Certified Software Engineer (Cert ID: 9a1d86bb95fb)
+- Certified Frontend Developer (Cert ID: 0e88a5637ccd)
+- Certified REST API Developer (Cert ID: a963c2c181b1)
 - Active Secret Security Clearance
 - Military Leadership Excellence Awards
-- Advanced Technical Training Certifications
 - Multilingual Proficiency (4 languages)
 
 <div align="center">
