@@ -262,6 +262,7 @@ class ProfessionalBackground:
 ## 🎖️ Achievements & Certifications
 
 - AWS Certified Cloud Practitioner
+- AWS Certified Developer Associate 
 - Certified Software Engineer (Cert ID: 9a1d86bb95fb)
 - Certified Frontend Developer (Cert ID: 0e88a5637ccd)
 - Certified REST API Developer (Cert ID: a963c2c181b1)
