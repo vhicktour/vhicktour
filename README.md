@@ -18,20 +18,20 @@
 
 > *"Bridging military precision with technological innovation"*
 
-```typescript
-const victor = {
-    role: "Full Stack Engineer",
-    specializations: ["AI/ML Integration", "Cloud Architecture", "System Design"],
-    background: "Military Veteran",
-    certifications: ["AWS Developer Associate", "Secret Security Clearance"],
-    languages: ["English", "Igbo", "Edo", "Yoruba", "French"],
-    currentFocus: {
-        building: "AI-powered Environmental Solutions",
-        learning: ["Large Language Models", "Computer Vision"],
-        exploring: "Sustainable Tech Innovations"
-    }
-};
-```
+### Who I Am
+I'm a Full Stack Software Engineer with a unique background as a military veteran, bringing disciplined problem-solving and leadership skills to the tech world. My expertise spans AI/ML integration, cloud architecture, and system design, with a particular focus on creating innovative solutions that make a difference.
+
+### What I Do
+- 🔧 Develop AI-powered environmental solutions
+- 🤖 Specialize in Large Language Models and Computer Vision
+- ☁️ Design and implement cloud-native applications
+- 📊 Create scalable, efficient system architectures
+
+### My Background
+- 🎖️ Military Veteran with Active Secret Security Clearance
+- ☁️ AWS Certified Developer Associate
+- 🌍 Multilingual: English, Igbo, Edo, Yoruba, and French
+- 🎓 Computer Science Graduate
 
 <div align="center">
 
@@ -104,8 +104,7 @@ const victor = {
 ## 📊 GitHub Analytics
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vhicktour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vhicktour&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vhicktour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vhicktour&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
