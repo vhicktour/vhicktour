@@ -18,6 +18,11 @@
 
 👋 Hi, I’m Victor — Full‑Stack Engineer and AI/ML specialist with **4 years** of experience turning ideas into secure, scalable products. U.S. Air Force Reservist, former Navy operations specialist, and holder of an active DoD Secret clearance.
 
+**Education**  
+🎓 B.S. in Computer Science – Southern New Hampshire University (Mar 2025)  
+🎓 M.S. in Software Engineering (AI Focus) – Western Governors University (In Progress)
+
+
 **Focus Areas**  
 • Built and deployed MERN + Python-based services with real-world usage  
 • Integrated OpenAI, Hugging Face, and Claude (Anthropic) for practical AI features  
@@ -68,10 +73,6 @@
     </tbody>
   </table>
 </div>
-
-**Education**  
-🎓 B.S. in Computer Science – Southern New Hampshire University (Mar 2025)  
-🎓 M.S. in Software Engineering (AI Focus) – Western Governors University (In Progress)
 
 <div align="center">
 
