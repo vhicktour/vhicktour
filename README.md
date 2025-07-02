@@ -25,24 +25,49 @@
 
 **Credentials**
 
-<table>
-  <tr>
-    <td><strong>🛡️ Security</strong></td>
-    <td>CompTIA Security+<br>DoD Active Secret Clearance</td>
-  </tr>
-  <tr>
-    <td><strong>☁️ Cloud</strong></td>
-    <td>AWS Certified Developer Associate<br>AWS Certified Cloud Practitioner</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 AI/Software</strong></td>
-    <td>HackerRank: Certified Software Engineer<br>Certified Frontend Developer (React)<br>Certified REST API Developer</td>
-  </tr>
-  <tr>
-    <td><strong>📚 edX Coursework</strong></td>
-    <td>Cybersecurity Basics<br>Compliance & Frameworks<br>Database Security<br>Operating Systems & Security</td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width:90%; border-collapse:collapse;">
+    <thead>
+      <tr>
+        <th align="left">🏷️ Category</th>
+        <th align="left">📜 Certifications</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>🛡️ Security</strong></td>
+        <td>
+          • CompTIA Security+<br>
+          • DoD Active Secret Clearance
+        </td>
+      </tr>
+      <tr>
+        <td><strong>☁️ Cloud</strong></td>
+        <td>
+          • AWS Certified Developer Associate<br>
+          • AWS Certified Cloud Practitioner
+        </td>
+      </tr>
+      <tr>
+        <td><strong>🧠 AI/Software</strong></td>
+        <td>
+          • HackerRank: Certified Software Engineer<br>
+          • Certified Frontend Developer (React)<br>
+          • Certified REST API Developer
+        </td>
+      </tr>
+      <tr>
+        <td><strong>📚 edX Coursework</strong></td>
+        <td>
+          • Cybersecurity Basics<br>
+          • Compliance & Frameworks<br>
+          • Database Security<br>
+          • Operating Systems & Security
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Education**  
 🎓 B.S. in Computer Science – Southern New Hampshire University (Mar 2025)  
@@ -65,4 +90,13 @@ I’m open to full‑time roles where AI and secure systems meet. Let’s talk!
 <img src="https://komarev.com/ghpvc/?username=vhicktour&style=for-the-badge&color=0D1117" alt="Profile Views" />
 
 <p>Crafted with care by Victor Udeh</p>
+
+
+<!-- GitHub Commit History -->
+<div align="center">
+  <h3>📈 GitHub Activity</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhicktour&theme=default" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vhicktour&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+</div>
 </div>
