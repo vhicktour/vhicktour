@@ -20,11 +20,33 @@
 
 **Focus Areas**  
 • Built and deployed MERN + Python-based services with real-world usage  
-• Integrated OpenAI, and Claude (Anthropic) for practical AI features  
+• Integrated OpenAI, Hugging Face, and Claude (Anthropic) for practical AI features  
 • Developed secure, role-aware systems (OAuth2, RBAC) in compliance-driven settings
 
-**Credentials**  
-AWS Developer & Cloud Practitioner • CompTIA Security+ • DoD Secret Clearance
+**Credentials**
+
+<table>
+  <tr>
+    <td><strong>🛡️ Security</strong></td>
+    <td>CompTIA Security+<br>DoD Active Secret Clearance</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud</strong></td>
+    <td>AWS Certified Developer Associate<br>AWS Certified Cloud Practitioner</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 AI/Software</strong></td>
+    <td>HackerRank: Certified Software Engineer<br>Certified Frontend Developer (React)<br>Certified REST API Developer</td>
+  </tr>
+  <tr>
+    <td><strong>📚 edX Coursework</strong></td>
+    <td>Cybersecurity Basics<br>Compliance & Frameworks<br>Database Security<br>Operating Systems & Security</td>
+  </tr>
+</table>
+
+**Education**  
+🎓 B.S. in Computer Science – Southern New Hampshire University (Mar 2025)  
+🎓 M.S. in Software Engineering (AI Focus) – Western Governors University (In Progress)
 
 <div align="center">
 
