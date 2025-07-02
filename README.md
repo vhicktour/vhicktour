@@ -90,13 +90,3 @@ I’m open to full‑time roles where AI and secure systems meet. Let’s talk!
 <img src="https://komarev.com/ghpvc/?username=vhicktour&style=for-the-badge&color=0D1117" alt="Profile Views" />
 
 <p>Crafted with care by Victor Udeh</p>
-
-
-<!-- GitHub Commit History -->
-<div align="center">
-  <h3>📈 GitHub Activity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhicktour&theme=default" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vhicktour&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" />
-</div>
-</div>
